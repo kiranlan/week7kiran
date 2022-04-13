@@ -1,0 +1,22 @@
+
+Get the list of 50 books
+loop through the links
+ 
+ {
+
+  Get the nav links
+
+ 	{
+
+	Loop through the links to:
+
+	}
+
+
+
+ }
+
+
+
+
+
